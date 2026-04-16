@@ -13,6 +13,33 @@ h1, h2, h3{
     padding-bottom:.5em;
 }
 
+ul, ol {
+	padding-left: 1.5em;
+	padding-bottom: .5em;
+} 
+a {
+	color: #084048;
+}
+a:visited {
+	color: #10A7A5;
+}
+
+a:hover {
+	color: #CC6600;
+}
+
+dt {
+	font-size: 1.1em;
+	font-weight: bold;
+	color: orangered;
+	margin: 5px;
+}
+
+dd {
+	margin-left: 50px;
+	padding-bottom: 1em;
+} 
+
 /* Header Formatting */
 
 /* Navigation Formatting */
